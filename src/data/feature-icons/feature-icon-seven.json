@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/support-1.png",
+    "title": "Freshness Guaranteed:",
+    "subtitle": "Ahuja Mart offers a wide selection of farm-fresh quality produce every time."
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/support-2.png",
+    "title": "Premium Dairy Products",
+    "subtitle": "Offering competitive prices on all our products without breaking the bank."
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/support-3.png",
+    "title": "Affordable Pricing",
+    "subtitle": "Offering competitive prices on all our products without breaking the bank."
+  },
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/support-4.png",
+    "title": "Wide Variety",
+    "subtitle": "Ahuja Mart has something for every need, all under one roof."
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/support-5.png",
+    "title": "Timely Delivery",
+    "subtitle": "Products are delivered right to your doorstep, making shopping easy and convenient."
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/support-6.png",
+    "title": "Commitment to Quality & Hygiene",
+    "subtitle": "At Ahuja Mart, we prioritize hygiene and quality in every product."
+  }
+]

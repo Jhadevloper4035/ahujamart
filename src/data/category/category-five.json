@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/icon-img/fruit.png",
+    "title": "Fruits",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/icon-img/vegtable.png",
+    "title": "Vegetables",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/icon-img/dairy.png",
+    "title": "Cheese and dairy ",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/icon-img/groceries.png",
+    "title": " Groceries",
+    "url": "/shop-grid-standard"
+  }
+]

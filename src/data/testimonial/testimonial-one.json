@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/icon-img/1.jpg",
+    "content": "Ahuja Mart is my go-to place for fresh fruits and vegetables! Their quality is always top-notch, and I can trust that I'm getting the best produce every time. Highly recommend!",
+    "customerName": "Ravi S. ",
+    "title": "customer"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/icon-img/3.jpg",
+    "content": "I’ve been shopping at Ahuja Mart for over a year now, and their dairy products are absolutely delicious. The milk, yogurt, and cheese taste so fresh, and I always look forward to getting my weekly supplies from here.",
+    "customerName": "Sonia M.",
+    "title": "customer"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/icon-img/3.jpg",
+    "content": "I’m impressed with the variety and freshness at Ahuja Mart. The fruits and vegetables are always crisp and vibrant, and their customer service is excellent. Delivery is always on time, which makes shopping even easier.",
+    "customerName": "Priya T.",
+    "title": "customer"
+  }
+]
