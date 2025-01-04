@@ -15,6 +15,21 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
   const dispatch = useDispatch();
   const { cartItems } = useSelector((state) => state.cart);
 
+  
+  const [buttonColors, setButtonColors] = useState({
+    button1: "#343538",
+    button2: "#343538",
+    button3: "#343538",
+    button4: "#343538",
+  });
+
+  const defaultColors = {
+    button1: "#343538",
+    button2: "#343538",
+    button3: "#343538",
+    button4: "#343538",
+  };
+
   const [selectedProductColor, setSelectedProductColor] = useState(
     product.variation ? product.variation[0].color : ""
   );
@@ -59,6 +74,15 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
     setThumbsSwiper(null)
     onHide()
   }
+
+  const handleClick = (id) => {
+    setButtonColors((prevColors) => {
+      return {
+        ...defaultColors, // Reset all buttons to their default colors
+        [id]: prevColors[id] === "#343538" ? "red" : "#343538", // Toggle the clicked button
+      };
+    });
+  };
 
   return (
     <Modal show={show} onHide={onCloseModal} className="product-quickview-modal-wrapper">
@@ -133,6 +157,56 @@ function ProductModal({ product, currency, discountedPrice, finalProductPrice, f
             <div className="pro-details-list">
               <p>{product.shortDescription}</p>
             </div>
+
+            <div className="pro-details-cart ">
+                <button
+                  onClick={() => handleClick("button1")}
+                  style={{
+                    backgroundColor: buttonColors.button1,
+                    color: "white",
+                    cursor: "pointer",
+                    margin: "0px 5px",
+                  }}
+                >
+                  500 GM
+                </button>
+
+                <button
+                  onClick={() => handleClick("button2")}
+                  style={{
+                    backgroundColor: buttonColors.button2,
+                    color: "white",
+                    cursor: "pointer",
+                    margin: "0px 5px",
+                  }}
+                >
+                  1000GM
+                </button>
+
+                <button
+                  onClick={() => handleClick("button3")}
+                  style={{
+                    backgroundColor: buttonColors.button3,
+                    color: "white",
+                    cursor: "pointer",
+                    margin: "0px 5px",
+                  }}
+                >
+                  2000GM
+                </button>
+
+                <button
+                  onClick={() => handleClick("button4")}
+                  style={{
+                    backgroundColor: buttonColors.button4,
+                    color: "white",
+                    cursor: "pointer",
+                    margin: "0px 5px",
+                  }}
+                >
+                  5000GM
+                </button>
+              </div>
 
             {product.variation ? (
               <div className="pro-details-size-color">
