@@ -8,6 +8,7 @@ import { getDiscountPrice } from "../../helpers/product";
 import ProductModal from "./ProductModal";
 import { addToCart } from "../../store/slices/cart-slice";
 import { addToWishlist } from "../../store/slices/wishlist-slice";
+import cogoToast from 'cogo-toast';
 
 const ProductGridSingle = ({
   product,
@@ -24,6 +25,33 @@ const ProductGridSingle = ({
     discountedPrice * currency.currencyRate
   ).toFixed(2);
   const dispatch = useDispatch();
+
+  const [selectedProductSize, setSelectedProductSize] = useState("");
+  const [quantity, setQuantity] = useState(1); 
+
+  // Handle size selection change
+  const handleSizeChange = (e) => {
+    setSelectedProductSize(e.target.value != "Select Size" ? e.target.value : "");
+  };
+
+  // Handle Add to Cart action
+  const handleAddToCart = () => {
+    // Dispatch add to cart action with selected size
+    if(product?.variants?.size?.length > 0){
+      if (!selectedProductSize) {
+        // If no size is selected, show a toast or alert (optional)
+        cogoToast.error("Please select a size", { position: "bottom-left" });
+        return;
+      }
+      dispatch(addToCart({
+        ...product,
+        selectedProductSize,  // Add selected size to the product object
+        quantity,  // Use the selected quantity
+      }));
+    }else{
+      dispatch(addToCart(product));
+    }
+  };
 
   return (
     <Fragment>
@@ -89,7 +117,10 @@ const ProductGridSingle = ({
                 </Link>
               ) : product.stock && product.stock > 0 ? (
                 <button
-                  onClick={() => dispatch(addToCart(product))}
+                  // onClick={() => 
+                  //   dispatch(addToCart(product))
+                  // }
+                  onClick={handleAddToCart}
                   className={
                     cartItem !== undefined && cartItem.quantity > 0
                       ? "active"
@@ -119,6 +150,27 @@ const ProductGridSingle = ({
             </div>
           </div>
         </div>
+        
+        <div className="size-select-box">
+          {product?.variants?.size?.length > 0 &&(
+            <select className="pro-details-size"  
+                value={selectedProductSize}
+                onChange={handleSizeChange}
+              >
+                <option>Select Size</option>
+                {product?.variants?.size.map(item => {
+                  return(
+                    <option 
+                      value={item.name}
+                    > 
+                      {item.name}
+                    </option>
+                  );
+                })}
+            </select>
+          )}
+        </div>
+
         <div className="product-content text-center">
           <h3 style={{textTransform : "capitalize"}}>
             <Link to={process.env.PUBLIC_URL + "/product/" + product.id}>
