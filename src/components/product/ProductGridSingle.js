@@ -20,18 +20,27 @@ const ProductGridSingle = ({
 }) => {
   const [modalShow, setModalShow] = useState(false);
   const discountedPrice = getDiscountPrice(product.price, product.discount);
-  const finalProductPrice = +(product.price * currency.currencyRate).toFixed(2);
+  // const finalProductPrice = +(product.price * currency.currencyRate).toFixed(2);
   const finalDiscountedPrice = +(
     discountedPrice * currency.currencyRate
   ).toFixed(2);
   const dispatch = useDispatch();
-
-  const [selectedProductSize, setSelectedProductSize] = useState("");
+  
+  const [selectedProductSize, setSelectedProductSize] = useState(product?.variants?.size?.[0]?.name);
+  const [finalProductPrice, setFinalProductPrice] = useState(
+    product.variants?.size?.[0]?.price ?
+      product.variants?.size?.[0]?.price : 
+      +(product.price * currency.currencyRate).toFixed(2));
   const [quantity, setQuantity] = useState(1); 
 
   // Handle size selection change
   const handleSizeChange = (e) => {
-    setSelectedProductSize(e.target.value != "Select Size" ? e.target.value : "");
+    // const currentSize = e.target.value.split('-')[0];
+    const currentPrice = e.target.value.split('-')[1];
+    setSelectedProductSize(e.target.value);
+    if(currentPrice != "undefined"){
+      setFinalProductPrice(currentPrice);
+    }
   };
 
   // Handle Add to Cart action
@@ -157,13 +166,14 @@ const ProductGridSingle = ({
                 value={selectedProductSize}
                 onChange={handleSizeChange}
               >
-                <option>Select Size</option>
+                {/* <option>Select Size</option> */}
                 {product?.variants?.size.map(item => {
                   return(
                     <option 
-                      value={item.name}
+                      value={`${item.name}-${item.price}`}
                     > 
-                      {item.name}
+                      <span>{item.name}</span>
+                      {item.price && <span>{"  "} ({currency.currencySymbol}{item.price})</span>}
                     </option>
                   );
                 })}
