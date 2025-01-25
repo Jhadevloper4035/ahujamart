@@ -122,18 +122,19 @@ const Cart = () => {
                                   >
                                     {cartItem.name}
                                   </Link>
-                                  {cartItem.selectedProductColor &&
-                                  cartItem.selectedProductSize ? (
+                                  {cartItem.selectedProductColor &&(
                                     <div className="cart-item-variation">
                                       <span>
                                         Color: {cartItem.selectedProductColor}
                                       </span>
+                                    </div>
+                                  )}
+                                  {cartItem.selectedProductSize && (
+                                    <div className="cart-item-variation">
                                       <span>
                                         Size: {cartItem.selectedProductSize}
                                       </span>
                                     </div>
-                                  ) : (
-                                    ""
                                   )}
                                 </td>
 

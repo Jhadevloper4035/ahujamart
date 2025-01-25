@@ -51,21 +51,22 @@ const MenuCart = () => {
                         {item.name}{" "}
                       </Link>
                     </h4>
+                    {item.selectedProductSize && (
+                      <div className="cart-item-variation">
+                        <span>Size: {item.selectedProductSize}</span>
+                      </div>
+                    )}
+                    {item.selectedProductColor && (
+                      <div className="cart-item-variation">
+                        <span>Color: {item.selectedProductColor}</span>
+                      </div>
+                    )}
                     <h6>Qty: {item.quantity}</h6>
                     <span>
                       {discountedPrice !== null
                         ? currency.currencySymbol + finalDiscountedPrice
                         : currency.currencySymbol + finalProductPrice}
                     </span>
-                    {item.selectedProductColor &&
-                    item.selectedProductSize ? (
-                      <div className="cart-item-variation">
-                        <span>Color: {item.selectedProductColor}</span>
-                        <span>Size: {item.selectedProductSize}</span>
-                      </div>
-                    ) : (
-                      ""
-                    )}
                   </div>
                   <div className="shopping-cart-delete">
                     <button onClick={() => dispatch(deleteFromCart(item.cartItemId))}>

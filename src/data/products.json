@@ -17,7 +17,15 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v1.png"]
     ],
     "fullDescription": "About the Product Arbi, also known as colocasia or taro root, is a starchy tuber that is widely used in Indian cuisine. It has a firm, slightly nutty flavor and is often boiled, fried, or used in curries. This vegetable is rich in dietary fiber, making it beneficial for digestion and overall health.",
-    "shortDescription": "About the Product Arbi, also known as colocasia or taro root, is a starchy tuber that is widely used in Indian cuisine. It has a firm, slightly nutty flavor and is often boiled, fried, or used in curries. This vegetable is rich in dietary fiber, making it beneficial for digestion and overall health."
+    "shortDescription": "About the Product Arbi, also known as colocasia or taro root, is a starchy tuber that is widely used in Indian cuisine. It has a firm, slightly nutty flavor and is often boiled, fried, or used in curries. This vegetable is rich in dietary fiber, making it beneficial for digestion and overall health.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "7766818702028844",
@@ -37,7 +45,10 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v2.png"]
     ],
     "fullDescription": "About the Product Arti Chowk is a variety of vegetable grown in tropical climates, known for its mild, delicate taste. It is typically harvested in early stages and is often used in stir-fries, soups, and curries. It adds texture and a subtle flavor to many dishes, popular in Asian and Indian kitchens.",
-    "shortDescription": "About the Product Arti Chowk is a variety of vegetable grown in tropical climates, known for its mild, delicate taste. It is typically harvested in early stages and is often used in stir-fries, soups, and curries. It adds texture and a subtle flavor to many dishes, popular in Asian and Indian kitchens."
+    "shortDescription": "About the Product Arti Chowk is a variety of vegetable grown in tropical climates, known for its mild, delicate taste. It is typically harvested in early stages and is often used in stir-fries, soups, and curries. It adds texture and a subtle flavor to many dishes, popular in Asian and Indian kitchens.",
+    "variants":{
+    
+    }
   },
   {
     "id": "5844896237403088",
@@ -57,7 +68,15 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v3.png"]
     ],
     "fullDescription": "About the Product Arugula, also known as rocket or rucola, is a leafy green vegetable with a peppery, slightly bitter flavor. It is commonly used in salads, sandwiches, and as a garnish. Arugula is loaded with nutrients and antioxidants, making it a great choice for a healthy diet.",
-    "shortDescription": "About the Product Arugula, also known as rocket or rucola, is a leafy green vegetable with a peppery, slightly bitter flavor. It is commonly used in salads, sandwiches, and as a garnish. Arugula is loaded with nutrients and antioxidants, making it a great choice for a healthy diet."
+    "shortDescription": "About the Product Arugula, also known as rocket or rucola, is a leafy green vegetable with a peppery, slightly bitter flavor. It is commonly used in salads, sandwiches, and as a garnish. Arugula is loaded with nutrients and antioxidants, making it a great choice for a healthy diet.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "3148297776229855",
@@ -77,7 +96,15 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v4.png"]
     ],
     "fullDescription": "About the Product Asparagus is a delicate and nutritious vegetable with long, tender green spears. It has a slightly earthy flavor and is often steamed, grilled, or roasted. Asparagus is packed with vitamins, minerals, and antioxidants, making it a great addition to any healthy diet.",
-    "shortDescription": "About the Product Asparagus is a delicate and nutritious vegetable with long, tender green spears. It has a slightly earthy flavor and is often steamed, grilled, or roasted. Asparagus is packed with vitamins, minerals, and antioxidants, making it a great addition to any healthy diet."
+    "shortDescription": "About the Product Asparagus is a delicate and nutritious vegetable with long, tender green spears. It has a slightly earthy flavor and is often steamed, grilled, or roasted. Asparagus is packed with vitamins, minerals, and antioxidants, making it a great addition to any healthy diet.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "3624241784474963",
@@ -97,7 +124,15 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v5.png"]
     ],
     "fullDescription": "About the Product Thai Asparagus is a unique variety of asparagus, commonly found in Southeast Asia. It has a more delicate texture and sweeter flavor than regular asparagus. Thai asparagus is often used in stir-fries, soups, and curries for its tender texture and subtle taste.",
-    "shortDescription": "About the Product Thai Asparagus is a unique variety of asparagus, commonly found in Southeast Asia. It has a more delicate texture and sweeter flavor than regular asparagus. Thai asparagus is often used in stir-fries, soups, and curries for its tender texture and subtle taste."
+    "shortDescription": "About the Product Thai Asparagus is a unique variety of asparagus, commonly found in Southeast Asia. It has a more delicate texture and sweeter flavor than regular asparagus. Thai asparagus is often used in stir-fries, soups, and curries for its tender texture and subtle taste.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "6381919550950161",
@@ -117,7 +152,15 @@
       ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v6.png"]
     ],
     "fullDescription": "About the Product-Imported Avocados are creamy, nutrient-dense fruits that are rich in healthy fats and vitamins. Known for their buttery texture and mild flavor, they are often used in guacamole, salads, or spread on toast. Avocados are a great source of monounsaturated fats, which are beneficial for heart health.",
-    "shortDescription": "About the Product-Imported Avocados are creamy, nutrient-dense fruits that are rich in healthy fats and vitamins. Known for their buttery texture and mild flavor, they are often used in guacamole, salads, or spread on toast. Avocados are a great source of monounsaturated fats, which are beneficial for heart health."
+    "shortDescription": "About the Product-Imported Avocados are creamy, nutrient-dense fruits that are rich in healthy fats and vitamins. Known for their buttery texture and mild flavor, they are often used in guacamole, salads, or spread on toast. Avocados are a great source of monounsaturated fats, which are beneficial for heart health.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "5861637557289073",
@@ -137,8 +180,15 @@
       "https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v7.png"
     ],
     "fullDescription": "About the Product  Local Avocados are grown in India and are slightly smaller in size compared to imported varieties. They offer the same rich, creamy texture and mild flavor, making them ideal for salads, sandwiches, and smoothies.",
-    "shortDescription": "About the Product  Local Avocados are grown in India and are slightly smaller in size compared to imported varieties. They offer the same rich, creamy texture and mild flavor, making them ideal for salads, sandwiches, and smoothies."
-   
+    "shortDescription": "About the Product  Local Avocados are grown in India and are slightly smaller in size compared to imported varieties. They offer the same rich, creamy texture and mild flavor, making them ideal for salads, sandwiches, and smoothies.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "4061794249394391",
@@ -158,7 +208,15 @@
       "https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v9.png"
     ],
     "fullDescription": "About the Product-Baby pumpkin is a miniature version of the regular pumpkin, known for its sweet flavor and tender flesh. It is often used in soups, stews, curries, or roasted as a side dish. Its bright orange color and mild taste make it a popular choice for autumn dishes.",
-    "shortDescription": "About the Product-Baby pumpkin is a miniature version of the regular pumpkin, known for its sweet flavor and tender flesh. It is often used in soups, stews, curries, or roasted as a side dish. Its bright orange color and mild taste make it a popular choice for autumn dishes."
+    "shortDescription": "About the Product-Baby pumpkin is a miniature version of the regular pumpkin, known for its sweet flavor and tender flesh. It is often used in soups, stews, curries, or roasted as a side dish. Its bright orange color and mild taste make it a popular choice for autumn dishes.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "7251511937266048",
@@ -178,7 +236,15 @@
       "https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v10.png"
     ],
     "fullDescription": "About the Product-Baby turnips are small, tender roots with a mild, slightly peppery flavor. They are great for roasting, sautéing, or adding to soups and stews. Baby turnips have a delicate, sweet taste compared to mature turnips, making them versatile in a variety of dishes.",
-    "shortDescription": "About the Product-Baby turnips are small, tender roots with a mild, slightly peppery flavor. They are great for roasting, sautéing, or adding to soups and stews. Baby turnips have a delicate, sweet taste compared to mature turnips, making them versatile in a variety of dishes."
+    "shortDescription": "About the Product-Baby turnips are small, tender roots with a mild, slightly peppery flavor. They are great for roasting, sautéing, or adding to soups and stews. Baby turnips have a delicate, sweet taste compared to mature turnips, making them versatile in a variety of dishes.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "1398859143189125",
@@ -198,7 +264,15 @@
       "https://res.cloudinary.com/dugiurhqm/image/upload/v1732181187/v8.png"
     ],
     "fullDescription": "About the Product-Baby corn is the young, immature form of corn, harvested before the kernels have developed. It has a sweet, tender flavor and crunchy texture. Baby corn is commonly used in Asian cuisines, stir-fries, and salads.",
-    "shortDescription": "About the Product-Baby corn is the young, immature form of corn, harvested before the kernels have developed. It has a sweet, tender flavor and crunchy texture. Baby corn is commonly used in Asian cuisines, stir-fries, and salads."
+    "shortDescription": "About the Product-Baby corn is the young, immature form of corn, harvested before the kernels have developed. It has a sweet, tender flavor and crunchy texture. Baby corn is commonly used in Asian cuisines, stir-fries, and salads.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
   },
   {
     "id": "691467266997",
@@ -224,7 +298,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f2.png"
     ],
     "fullDescription": "Amla, also known as Indian Gooseberry, is a small, green, and round fruit packed with a tangy and bitter taste. It has been a cornerstone of Ayurvedic medicine for centuries due to its high nutritional content and medicinal properties. Amla is known for its ability to boost immunity, improve digestion, and promote hair and skin health",
-    "shortDescription": "About the Product Amla, also known as Indian Gooseberry, is a small, green, and round fruit packed with a tangy and bitter taste. It has been a cornerstone of Ayurvedic medicine for centuries due to its high nutritional content and medicinal properties. Amla is known for its ability to boost immunity, improve digestion, and promote hair and skin health"
+    "shortDescription": "About the Product Amla, also known as Indian Gooseberry, is a small, green, and round fruit packed with a tangy and bitter taste. It has been a cornerstone of Ayurvedic medicine for centuries due to its high nutritional content and medicinal properties. Amla is known for its ability to boost immunity, improve digestion, and promote hair and skin health",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "311713774093",
@@ -250,7 +332,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f3.png"
     ],
     "fullDescription": "About the Product Custard apple, also known as Sitaphal in India, is a soft, sweet, and creamy fruit encased in a green, scaly rind. It is cherished for its rich flavor, reminiscent of a mix between banana and pineapple. Custard apples are primarily grown in tropical and subtropical regions and are an excellent source of natural sugar and essential nutrients.",
-    "shortDescription": "About the Product Custard apple, also known as Sitaphal in India, is a soft, sweet, and creamy fruit encased in a green, scaly rind. It is cherished for its rich flavor, reminiscent of a mix between banana and pineapple. Custard apples are primarily grown in tropical and subtropical regions and are an excellent source of natural sugar and essential nutrients."
+    "shortDescription": "About the Product Custard apple, also known as Sitaphal in India, is a soft, sweet, and creamy fruit encased in a green, scaly rind. It is cherished for its rich flavor, reminiscent of a mix between banana and pineapple. Custard apples are primarily grown in tropical and subtropical regions and are an excellent source of natural sugar and essential nutrients.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "685566510894",
@@ -276,7 +366,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f4.png"
     ],
     "fullDescription": "About the Product Fuji apples are renowned for their crisp texture and intense sweetness. Originally developed in Japan, they are a cross between Red Delicious and Ralls Janet varieties. Their juicy and firm flesh makes them an excellent choice for snacking and baking.",
-    "shortDescription": "About the Product Fuji apples are renowned for their crisp texture and intense sweetness. Originally developed in Japan, they are a cross between Red Delicious and Ralls Janet varieties. Their juicy and firm flesh makes them an excellent choice for snacking and baking."
+    "shortDescription": "About the Product Fuji apples are renowned for their crisp texture and intense sweetness. Originally developed in Japan, they are a cross between Red Delicious and Ralls Janet varieties. Their juicy and firm flesh makes them an excellent choice for snacking and baking.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "417082309990",
@@ -302,7 +400,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f5.png"
     ],
     "fullDescription": "About the Product-Golden and Gala apples are two of the most popular apple varieties known for their sweet, crisp, and juicy flavor. Golden apples have a smooth, yellowish skin, while Gala apples have a reddish-orange hue with yellow undertones. Both varieties are versatile in use, perfect for snacking, baking, or making juice. Golden apples are slightly more tart, while Gala apples are exceptionally sweet, making them favorites for those who prefer a milder, more fragrant taste. These apples are rich in natural sugars, making them an excellent choice for those seeking a healthy, refreshing snack.",
-    "shortDescription": "About the Product-Golden and Gala apples are two of the most popular apple varieties known for their sweet, crisp, and juicy flavor. Golden apples have a smooth, yellowish skin, while Gala apples have a reddish-orange hue with yellow undertones. Both varieties are versatile in use, perfect for snacking, baking, or making juice. Golden apples are slightly more tart, while Gala apples are exceptionally sweet, making them favorites for those who prefer a milder, more fragrant taste. These apples are rich in natural sugars, making them an excellent choice for those seeking a healthy, refreshing snack."
+    "shortDescription": "About the Product-Golden and Gala apples are two of the most popular apple varieties known for their sweet, crisp, and juicy flavor. Golden apples have a smooth, yellowish skin, while Gala apples have a reddish-orange hue with yellow undertones. Both varieties are versatile in use, perfect for snacking, baking, or making juice. Golden apples are slightly more tart, while Gala apples are exceptionally sweet, making them favorites for those who prefer a milder, more fragrant taste. These apples are rich in natural sugars, making them an excellent choice for those seeking a healthy, refreshing snack.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "270769335204",
@@ -328,7 +434,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f6.png"
     ],
     "fullDescription": "About the Product-Green apples, most commonly the Granny Smith variety, are known for their tartness and vibrant green color. These apples are firm, crisp, and slightly sour, which makes them a popular choice for baking, cooking, and making juices. They also pair wonderfully with both sweet and savory dishes due to their tangy flavor. Green apples are packed with nutrients and are a favorite for those who prefer a less sugary apple. Their high fiber content and low-calorie count make them a nutritious option for a healthy diet.",
-    "shortDescription": "About the Product-Green apples, most commonly the Granny Smith variety, are known for their tartness and vibrant green color. These apples are firm, crisp, and slightly sour, which makes them a popular choice for baking, cooking, and making juices. They also pair wonderfully with both sweet and savory dishes due to their tangy flavor. Green apples are packed with nutrients and are a favorite for those who prefer a less sugary apple. Their high fiber content and low-calorie count make them a nutritious option for a healthy diet."
+    "shortDescription": "About the Product-Green apples, most commonly the Granny Smith variety, are known for their tartness and vibrant green color. These apples are firm, crisp, and slightly sour, which makes them a popular choice for baking, cooking, and making juices. They also pair wonderfully with both sweet and savory dishes due to their tangy flavor. Green apples are packed with nutrients and are a favorite for those who prefer a less sugary apple. Their high fiber content and low-calorie count make them a nutritious option for a healthy diet.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "798215996363",
@@ -354,7 +468,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f7.png"
     ],
     "fullDescription": "About the Product-Kinnor or Red apples are a variety known for their bright red color and sweet, juicy flavor. They have a smooth, slightly waxy skin and a tender, crisp texture. These apples are often enjoyed fresh, added to fruit salads, or used in baking and desserts. Kinnor apples are known for their natural sweetness, making them an excellent snack choice for those who enjoy a balance of flavor. With their rich flavor and beautiful color, they add a pop of brightness to any dish.",
-    "shortDescription": "About the Product-Kinnor or Red apples are a variety known for their bright red color and sweet, juicy flavor. They have a smooth, slightly waxy skin and a tender, crisp texture. These apples are often enjoyed fresh, added to fruit salads, or used in baking and desserts. Kinnor apples are known for their natural sweetness, making them an excellent snack choice for those who enjoy a balance of flavor. With their rich flavor and beautiful color, they add a pop of brightness to any dish."
+    "shortDescription": "About the Product-Kinnor or Red apples are a variety known for their bright red color and sweet, juicy flavor. They have a smooth, slightly waxy skin and a tender, crisp texture. These apples are often enjoyed fresh, added to fruit salads, or used in baking and desserts. Kinnor apples are known for their natural sweetness, making them an excellent snack choice for those who enjoy a balance of flavor. With their rich flavor and beautiful color, they add a pop of brightness to any dish.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "640808021793",
@@ -380,7 +502,15 @@
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f8.png"
     ],
     "fullDescription": "About the Product-New Zealand apples are renowned for their exceptional quality, sweetness, and crisp texture. Grown in the clean, green climate of New Zealand, these apples come in a variety of types, including Fuji, Braeburn, and Pacific Rose. New Zealand apples are typically larger, with a vibrant red or green skin and a juicy, sweet-tart flavor that makes them perfect for snacking, juicing, or baking. These apples are harvested at peak ripeness, ensuring the highest quality and flavor.",
-    "shortDescription": "About the Product-New Zealand apples are renowned for their exceptional quality, sweetness, and crisp texture. Grown in the clean, green climate of New Zealand, these apples come in a variety of types, including Fuji, Braeburn, and Pacific Rose. New Zealand apples are typically larger, with a vibrant red or green skin and a juicy, sweet-tart flavor that makes them perfect for snacking, juicing, or baking. These apples are harvested at peak ripeness, ensuring the highest quality and flavor."
+    "shortDescription": "About the Product-New Zealand apples are renowned for their exceptional quality, sweetness, and crisp texture. Grown in the clean, green climate of New Zealand, these apples come in a variety of types, including Fuji, Braeburn, and Pacific Rose. New Zealand apples are typically larger, with a vibrant red or green skin and a juicy, sweet-tart flavor that makes them perfect for snacking, juicing, or baking. These apples are harvested at peak ripeness, ensuring the highest quality and flavor.",
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    }
 },
 {
     "id": "417646590925",
@@ -405,6 +535,14 @@
     "image": [
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f9.png"
     ],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "About the Product-Washington apples, primarily grown in the state of Washington in the USA, are some of the finest apples available globally. Known for their crisp texture and balanced sweet-tart flavor, these apples come in a range of varieties, such as Red Delicious, Fuji, and Gala. Washington apples are prized for their high quality, with firm, juicy flesh and a bright, glossy skin. They are perfect for fresh eating, baking, or juicing, making them a versatile fruit in the kitchen.",
     "shortDescription": "About the Product-Washington apples, primarily grown in the state of Washington in the USA, are some of the finest apples available globally. Known for their crisp texture and balanced sweet-tart flavor, these apples come in a range of varieties, such as Red Delicious, Fuji, and Gala. Washington apples are prized for their high quality, with firm, juicy flesh and a bright, glossy skin. They are perfect for fresh eating, baking, or juicing, making them a versatile fruit in the kitchen."
 },
@@ -431,6 +569,14 @@
     "image": [
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f12.png"
     ],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Baby papaya is a smaller-sized variant of the common papaya, known for its vibrant orange flesh and natural sweetness. It has a smooth, soft texture and a tropical flavor that makes it a versatile addition to fruit salads, desserts, or smoothies. Unlike regular papaya, baby papaya has a more concentrated sweetness and is often enjoyed as a refreshing snack or breakfast fruit. Packed with essential vitamins and enzymes, it aids digestion and boosts overall health.",
     "shortDescription": "Baby papaya is a smaller, sweeter version of regular papaya. Its smooth, orange flesh is juicy and packed with nutrients, making it perfect for snacking, salads, or smoothies."
 },
@@ -457,6 +603,14 @@
     "image": [
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f13.png"
     ],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Bail, or wood apple, is a tropical fruit with a tough outer shell and a soft, aromatic pulp inside. Known for its sweet and tangy flavor, bael is often used to prepare juices, sherbets, and desserts. This fruit is highly revered in Indian culture for its medicinal properties, particularly in improving digestion and boosting immunity. Bael is rich in dietary fiber and is considered a natural detoxifier, making it a popular choice for those seeking a healthy, refreshing treat.",
     "shortDescription": "Bail, also known as wood apple, is a tropical fruit with a hard shell and fragrant, pulp-like interior. It is widely used for its medicinal properties and refreshing flavor in beverages and desserts."
 },
@@ -483,6 +637,14 @@
     "image": [
         "https://res.cloudinary.com/dugiurhqm/image/upload/v1732356343/f14.png"
     ],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Bananas are one of the most widely consumed fruits in the world, known for their soft texture and naturally sweet taste. Easy to peel and eat, they are a convenient snack for all ages. Bananas are versatile and can be eaten fresh, blended into smoothies, or used in baked goods like bread and muffins. They are a powerhouse of energy and nutrients, particularly potassium, which supports heart health and muscle function.",
     "shortDescription": "Bananas are a naturally sweet, energy-packed fruit that is perfect for snacking, smoothies, and baking. They are rich in potassium, fiber, and essential vitamins, making them a staple in a healthy diet."
 },
@@ -501,6 +663,14 @@
     "stock": 2,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d1.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A soft, smooth cheese with a creamy texture and mild tangy flavor. Ideal for spreads, dips, desserts, and baking, it s a versatile kitchen staple.",
     "shortDescription": "A soft, smooth cheese with a creamy texture and mild tangy flavor. Ideal for spreads, dips, desserts, and baking, it s a versatile kitchen staple."
   },
@@ -519,6 +689,14 @@
     "stock": 3,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d2.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A rich and creamy Gouda cheese infused with aromatic oregano, offering a delightful blend of savory and herbaceous flavors. Perfect for sandwiches, pizzas, and salads.",
     "shortDescription": "A rich and creamy Gouda cheese infused with aromatic oregano, offering a delightful blend of savory and herbaceous flavors. Perfect for sandwiches, pizzas, and salads."
   },
@@ -537,6 +715,14 @@
     "stock": 3,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d3.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A semi-hard, brined cheese known for its high melting point, making it perfect for grilling or frying. It has a salty, tangy flavor and a chewy texture.",
     "shortDescription": "A semi-hard, brined cheese known for its high melting point, making it perfect for grilling or frying. It has a salty, tangy flavor and a chewy texture."
   },
@@ -555,6 +741,14 @@
     "stock": 4,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d4.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A high-quality, rich, and creamy butter crafted for an indulgent taste. Ideal for cooking, baking, or simply spreading on bread.",
     "shortDescription": "A high-quality, rich, and creamy butter crafted for an indulgent taste. Ideal for cooking, baking, or simply spreading on bread."
   },
@@ -573,6 +767,14 @@
     "stock": 5,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d5.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A ready-to-use, smooth cheese spread with a creamy texture and balanced flavor. It s perfect for sandwiches, crackers, and as a quick dip.",
     "shortDescription": "A ready-to-use, smooth cheese spread with a creamy texture and balanced flavor. It s perfect for sandwiches, crackers, and as a quick dip."
   },
@@ -591,6 +793,14 @@
     "stock": 3,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d6.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A bold Gouda cheese spiced with red chili flakes, delivering a spicy kick. Perfect for adding heat to burgers, snacks, or cheese platters.",
     "shortDescription": "A bold Gouda cheese spiced with red chili flakes, delivering a spicy kick. Perfect for adding heat to burgers, snacks, or cheese platters."
   },
@@ -609,6 +819,14 @@
     "stock": 4,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d7.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Thin, delicate pastry sheets used in making layered dishes like baklava or savory pies. It crisps beautifully when baked or fried, offering a light, flaky texture.",
     "shortDescription": "Thin, delicate pastry sheets used in making layered dishes like baklava or savory pies. It crisps beautifully when baked or fried, offering a light, flaky texture."
   },
@@ -627,6 +845,14 @@
     "stock": 6,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d8.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "An Italian semi-soft cheese with a smoky flavor and a subtle tang. Great for melting in recipes like pasta, pizzas, and casseroles.",
     "shortDescription": "An Italian semi-soft cheese with a smoky flavor and a subtle tang. Great for melting in recipes like pasta, pizzas, and casseroles."
   },
@@ -645,6 +871,14 @@
     "stock": 2,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d9.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A blend of cheeses designed for the perfect stretch and melt, typically mild in flavor. It s an essential topping for pizzas, sandwiches, and baked dishes.",
     "shortDescription": "A blend of cheeses designed for the perfect stretch and melt, typically mild in flavor. It s an essential topping for pizzas, sandwiches, and baked dishes."
   },
@@ -663,6 +897,14 @@
     "stock": 4,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d10.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Pre-diced cheese offering a mix of textures and flavors, ready to sprinkle on pizzas, pastas, and salads. A convenient and flavorful option for quick meals.",
     "shortDescription": "Pre-diced cheese offering a mix of textures and flavors, ready to sprinkle on pizzas, pastas, and salads. A convenient and flavorful option for quick meals."
   },
@@ -681,6 +923,14 @@
     "stock": 6,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d11.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Thin, round wrappers used to make Japanese dumplings (gyoza). They have a tender texture when steamed and a crisp edge when pan-fried.",
     "shortDescription": "Thin, round wrappers used to make Japanese dumplings (gyoza). They have a tender texture when steamed and a crisp edge when pan-fried."
   },
@@ -699,6 +949,14 @@
     "stock": 6,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d12.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Thin square wrappers traditionally used for wontons in Chinese cuisine. These versatile skins can also be fried or boiled for soups and appetizers.",
     "shortDescription": "Thin square wrappers traditionally used for wontons in Chinese cuisine. These versatile skins can also be fried or boiled for soups and appetizers."
   },
@@ -717,6 +975,14 @@
     "stock": 7,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d13.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "Delicate pastry sheets used for wrapping spring rolls. They fry to a golden crisp texture, ideal for stuffing with savory or sweet fillings.",
     "shortDescription": "Delicate pastry sheets used for wrapping spring rolls. They fry to a golden crisp texture, ideal for stuffing with savory or sweet fillings."
   },
@@ -735,6 +1001,14 @@
     "stock": 7,
     "measure": "pkt",
     "image": ["https://res.cloudinary.com/dugiurhqm/image/upload/v1732875817/d14.png"],
+    "variants":{
+      "size": [
+        {"name" : "250GM",  "stock": 10},
+        {"name" : "500GM",  "stock": 10},
+        {"name" : "1KG",  "stock": 10},
+        {"name" : "5KG",  "stock": 10}
+      ]
+    },
     "fullDescription": "A popular street food featuring a hot dog (or cheese) coated in batter, breadcrumbs, or potatoes, then deep-fried. Often topped with sugar or sauces for a sweet-savory treat.",
     "shortDescription": "A popular street food featuring a hot dog (or cheese) coated in batter, breadcrumbs, or potatoes, then deep-fried. Often topped with sugar or sauces for a sweet-savory treat."
   }
