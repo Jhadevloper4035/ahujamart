@@ -20,9 +20,12 @@ const MenuCart = () => {
                 item.price,
                 item.discount
               );
-              const finalProductPrice = (
-                item.price * currency.currencyRate
-              ).toFixed(2);
+              // const finalProductPrice = (
+              //   item.price * currency.currencyRate
+              // ).toFixed(2);
+              const finalProductPrice = item?.selectedProductSize?.split("-")[1] != "undefined" ? 
+                 (item?.selectedProductSize?.split("-")[1])
+                 :(item.price * currency.currencyRate).toFixed(2);
               const finalDiscountedPrice = (
                 discountedPrice * currency.currencyRate
               ).toFixed(2);
@@ -53,7 +56,8 @@ const MenuCart = () => {
                     </h4>
                     {item.selectedProductSize && (
                       <div className="cart-item-variation">
-                        <span>Size: {item.selectedProductSize}</span>
+                        {/* <span>Size: {item.selectedProductSize}</span> */}
+                        <span>Size: {item.selectedProductSize.split("-")[0] ? item.selectedProductSize.split("-")[0] : item.selectedProductSize}</span>
                       </div>
                     )}
                     {item.selectedProductColor && (

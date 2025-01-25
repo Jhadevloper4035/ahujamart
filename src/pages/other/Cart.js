@@ -79,9 +79,18 @@ const Cart = () => {
                               cartItem.price,
                               cartItem.discount
                             );
+                            // const finalProductPrice = (
+                            //   cartItem.price * currency.currencyRate
+                            // ).toFixed(2);
                             const finalProductPrice = (
-                              cartItem.price * currency.currencyRate
-                            ).toFixed(2);
+                              cartItem.selectedProductSize ? 
+                                (cartItem.selectedProductSize.split("-")[1] != "undefined" ? (
+                                   cartItem.selectedProductSize.split("-")[1] 
+                                  ):
+                                  (cartItem.price * currency.currencyRate).toFixed(2)
+                                ):
+                                (cartItem.price * currency.currencyRate).toFixed(2)
+                            );
                             const finalDiscountedPrice = (
                               discountedPrice * currency.currencyRate
                             ).toFixed(2);
@@ -132,7 +141,8 @@ const Cart = () => {
                                   {cartItem.selectedProductSize && (
                                     <div className="cart-item-variation">
                                       <span>
-                                        Size: {cartItem.selectedProductSize}
+                                        {/* Size: {cartItem.selectedProductSize} */}
+                                        Size: {cartItem.selectedProductSize.split("-")[0] ? cartItem.selectedProductSize.split("-")[0] : cartItem.selectedProductSize}
                                       </span>
                                     </div>
                                   )}
